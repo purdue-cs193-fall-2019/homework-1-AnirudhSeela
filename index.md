@@ -1,6 +1,10 @@
 # Anirudh Seela's First Homework
 
-- I like that CS193 is led by students and teaches us useful things relevant to our major
+- I like that CS193 is led by students 
+- I like that it teaches us useful things relevant to our major
+- Make the quizzes easy
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
